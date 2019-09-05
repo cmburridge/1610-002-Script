@@ -6,7 +6,10 @@ using UnityEngine.Events;
 
 public class Trigger : MonoBehaviour
 {
-	private void OnTriggerEnter(Collider other)
+	public float floatValue = 5f;
+	public string stringValue = "Jon";
+
+	public void OnTriggerEnter(Collider other)
 	{
 		throw new NotImplementedException();
 	}
