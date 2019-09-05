@@ -10,12 +10,18 @@ public class Variables : MonoBehaviour
     public int intValue = 20;
     public string stringValue = "Bob";
     public int firePower;
-    public UnityEvent Event; 
+    public UnityEvent Event;
     private void OnTriggerEnter(Collider other)
     {
         Event.Invoke();
         
         print("Boom");
+    }
+
+    public UnityEvent Drag;
+    private void OnMouseDrag()
+    {
+       Drag.Invoke();
     }
 
     // Start is called before the first frame update
