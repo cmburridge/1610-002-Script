@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\BombBehavior.cs" />
     <Compile Include="Assets\Variables.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/10846705/script/1610-002-Script/Project 1 first/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>

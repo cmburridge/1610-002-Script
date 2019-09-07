@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c61ad3a7-f0ba-422d-80f1-e746a2db5f75" name="Default Changelist" comment="" />
@@ -13,10 +13,12 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Variables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BombBehavior.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/BombBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Variables.cs" />
       </list>
     </option>
@@ -68,6 +70,8 @@
       <option name="presentableId" value="Default" />
       <updated>1567542798456</updated>
       <workItem from="1567542801985" duration="3394000" />
+      <workItem from="1567715175372" duration="1051000" />
+      <workItem from="1567716526236" duration="747000" />
     </task>
     <servers />
   </component>
@@ -81,7 +85,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
