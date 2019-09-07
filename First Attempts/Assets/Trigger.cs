@@ -8,10 +8,10 @@ public class Trigger : MonoBehaviour
 {
 	public float floatValue = 5f;
 	public string stringValue = "Jon";
-
+	public UnityEvent Event;
 	public void OnTriggerEnter(Collider other)
 	{
-		throw new NotImplementedException();
+		Event.Invoke();
 	}
 
 	// Use this for initialization
