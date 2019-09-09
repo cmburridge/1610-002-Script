@@ -12,11 +12,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Behaviors.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Trigger.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/Behaviors.cs" />
         <option value="$PROJECT_DIR$/Assets/Trigger.cs" />
       </list>
     </option>
@@ -72,6 +74,7 @@
       <workItem from="1567566278700" duration="1142000" />
       <workItem from="1567661760837" duration="388000" />
       <workItem from="1567837882717" duration="336000" />
+      <workItem from="1567995607975" duration="2060000" />
     </task>
     <servers />
   </component>
