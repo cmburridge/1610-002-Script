@@ -13,6 +13,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Variables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/BombBehavior.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -20,6 +22,8 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/BombBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Variables.cs" />
+        <option value="$PROJECT_DIR$/Assets/TriggerEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
       </list>
     </option>
   </component>
@@ -72,6 +76,7 @@
       <workItem from="1567542801985" duration="3394000" />
       <workItem from="1567715175372" duration="1051000" />
       <workItem from="1567716526236" duration="747000" />
+      <workItem from="1568147654853" duration="3638000" />
     </task>
     <servers />
   </component>
