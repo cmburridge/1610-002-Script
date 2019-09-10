@@ -11,11 +11,10 @@ public class Trigger : MonoBehaviour
 	public int intValue = 20;
 	public string stringValue = "Jon";
 	public UnityEvent Event;
-	
 
-	public void OnTriggerEnter(Collider other)
+	private void OnTriggerEnter(Collider other)
 	{
-		throw new NotImplementedException();
+		Event.Invoke();
 	}
 
 	// Use this for initialization
