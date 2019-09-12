@@ -6,23 +6,9 @@ using UnityEngine.Events;
 
 public class Trigger : MonoBehaviour
 {
-	
-	public float floatValue = 5f;
-	public int intValue = 20;
-	public string stringValue = "Jon";
-	public UnityEvent Event;
-
-	private void OnTriggerEnter(Collider other)
+	public UnityEvent value;
+	public void OnTriggerEnter(Collider other)
 	{
-		Event.Invoke();
-	}
-
-	// Use this for initialization
-	void Start () {
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
+		value.Invoke();
 	}
 }
