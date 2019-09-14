@@ -15,6 +15,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Behaviors.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Trigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Particles.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -22,6 +23,8 @@
         <option value="$PROJECT_DIR$/Assets/Behaviors.cs" />
         <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Trigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Particles.cs" />
       </list>
     </option>
   </component>
@@ -79,6 +82,8 @@
       <workItem from="1567995607975" duration="2060000" />
       <workItem from="1568090244036" duration="2333000" />
       <workItem from="1568264445272" duration="1778000" />
+      <workItem from="1568431776957" duration="2008000" />
+      <workItem from="1568434028594" duration="290000" />
     </task>
     <servers />
   </component>

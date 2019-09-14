@@ -180,5 +180,6 @@
 -define:UNITY_TEAM_LICENSE
 Assets/Behaviors.cs
 Assets/FloatData.cs
+Assets/Movement.cs
 Assets/Trigger.cs
 -lib:C:\Users\cmbur\Desktop\Art\2018.1.9f2\Editor\Data\MonoBleedingEdge\lib\mono\unity
