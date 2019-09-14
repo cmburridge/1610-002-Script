@@ -63,8 +63,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\BombBehavior.cs" />
+    <Compile Include="Assets\CatClass.cs" />
+    <Compile Include="Assets\DogClass.cs" />
     <Compile Include="Assets\FloatData.cs" />
+    <Compile Include="Assets\MouseEvents.cs" />
+    <Compile Include="Assets\ParticalControl.cs" />
     <Compile Include="Assets\TriggerEvents.cs" />
     <Compile Include="Assets\Variables.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
