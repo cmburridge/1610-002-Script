@@ -61,6 +61,7 @@
   <ItemGroup>
     <Compile Include="Assets\Behaviors.cs" />
     <Compile Include="Assets\FloatData.cs" />
+    <Compile Include="Assets\Material.cs" />
     <Compile Include="Assets\Particles.cs" />
     <Compile Include="Assets\Trigger.cs" />
     <Reference Include="UnityEditor.StandardEvents">
