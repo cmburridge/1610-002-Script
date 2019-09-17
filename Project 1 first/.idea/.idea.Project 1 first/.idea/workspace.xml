@@ -18,6 +18,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DogClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CatClass.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -31,6 +32,7 @@
         <option value="$PROJECT_DIR$/Assets/CatClass.cs" />
         <option value="$PROJECT_DIR$/Assets/ParticalControl.cs" />
         <option value="$PROJECT_DIR$/Assets/MouseEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Movement.cs" />
       </list>
     </option>
   </component>
@@ -85,6 +87,7 @@
       <workItem from="1567716526236" duration="747000" />
       <workItem from="1568147654853" duration="3638000" />
       <workItem from="1568320195999" duration="3981000" />
+      <workItem from="1568753084423" duration="3693000" />
     </task>
     <servers />
   </component>
