@@ -181,6 +181,7 @@
 Assets/Behaviors.cs
 Assets/FloatData.cs
 Assets/Material.cs
+Assets/Movement.cs
 Assets/Particles.cs
 Assets/Trigger.cs
 -lib:C:\Users\cmbur\Desktop\Art\2018.1.9f2\Editor\Data\MonoBleedingEdge\lib\mono\unity

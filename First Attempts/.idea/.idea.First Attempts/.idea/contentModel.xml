@@ -8,6 +8,8 @@
       <e p="Assets" t="Include">
         <e p="Behaviors.cs" t="Include" />
         <e p="FloatData.cs" t="Include" />
+        <e p="Material.cs" t="Include" />
+        <e p="Movement.cs" t="Include" />
         <e p="Particles.cs" t="Include" />
         <e p="Trigger.cs" t="Include" />
       </e>
