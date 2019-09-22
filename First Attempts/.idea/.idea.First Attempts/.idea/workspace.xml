@@ -14,6 +14,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Behaviors.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Trigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EnemyOne.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Particles.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Movement.cs" root0="FORCE_HIGHLIGHTING" />
@@ -26,6 +27,7 @@
         <option value="$PROJECT_DIR$/Assets/Trigger.cs" />
         <option value="$PROJECT_DIR$/Assets/Particles.cs" />
         <option value="$PROJECT_DIR$/Assets/Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/EnemyOne.cs" />
       </list>
     </option>
   </component>
@@ -87,6 +89,7 @@
       <workItem from="1568434028594" duration="290000" />
       <workItem from="1568863247740" duration="1573000" />
       <workItem from="1569040343172" duration="2078000" />
+      <workItem from="1569115975211" duration="1839000" />
     </task>
     <servers />
   </component>

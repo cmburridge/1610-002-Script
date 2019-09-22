@@ -9,7 +9,7 @@ public class Movement : MonoBehaviour
 	public float speed = 5f;
 	public float gravity = 3f;
 	public Vector3 position;
-	public float jumpSpeed = 4f;
+	public float jumpSpeed = 2f;
 	private int jumpCount;
 	public int jumpCountMax = 2;
 
