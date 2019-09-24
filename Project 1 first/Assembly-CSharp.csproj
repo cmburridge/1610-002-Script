@@ -63,9 +63,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\ApplyFource.cs" />
     <Compile Include="Assets\CatClass.cs" />
     <Compile Include="Assets\DogClass.cs" />
+    <Compile Include="Assets\EnemyOne.cs" />
+    <Compile Include="Assets\EnemyOne1.cs" />
     <Compile Include="Assets\FloatData.cs" />
+    <Compile Include="Assets\GetFruit.cs" />
+    <Compile Include="Assets\IfStatements.cs" />
     <Compile Include="Assets\MouseEvents.cs" />
     <Compile Include="Assets\Movement.cs" />
     <Compile Include="Assets\ParticalControl.cs" />
