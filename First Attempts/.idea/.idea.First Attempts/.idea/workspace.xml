@@ -17,6 +17,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/EnemyOne.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Particles.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Rubber.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Movement.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -28,6 +29,7 @@
         <option value="$PROJECT_DIR$/Assets/Particles.cs" />
         <option value="$PROJECT_DIR$/Assets/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/EnemyOne.cs" />
+        <option value="$PROJECT_DIR$/Assets/Rubber.cs" />
       </list>
     </option>
   </component>
@@ -90,6 +92,7 @@
       <workItem from="1568863247740" duration="1573000" />
       <workItem from="1569040343172" duration="2078000" />
       <workItem from="1569115975211" duration="1839000" />
+      <workItem from="1569472779837" duration="516000" />
     </task>
     <servers />
   </component>
