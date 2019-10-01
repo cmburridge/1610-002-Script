@@ -12,7 +12,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/ParticalControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UiTextController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IntData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/EnemyOne1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GetFruit.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
@@ -43,7 +45,10 @@
         <option value="$PROJECT_DIR$/Assets/GetFruit.cs" />
         <option value="$PROJECT_DIR$/Assets/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/ApplyFource.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerData.cs" />
         <option value="$PROJECT_DIR$/Assets/Functions.cs" />
+        <option value="$PROJECT_DIR$/Assets/IntData.cs" />
+        <option value="$PROJECT_DIR$/Assets/UiTextController.cs" />
       </list>
     </option>
   </component>
@@ -103,6 +108,7 @@
       <workItem from="1569356729055" duration="5164000" />
       <workItem from="1569529627306" duration="4050000" />
       <workItem from="1569534350987" duration="56000" />
+      <workItem from="1569961484347" duration="4743000" />
     </task>
     <servers />
   </component>
