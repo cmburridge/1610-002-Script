@@ -13,6 +13,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Behaviors.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Trigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/EnemyOne.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -24,12 +25,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Behaviors.cs" />
-        <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Trigger.cs" />
         <option value="$PROJECT_DIR$/Assets/Particles.cs" />
         <option value="$PROJECT_DIR$/Assets/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/EnemyOne.cs" />
         <option value="$PROJECT_DIR$/Assets/Rubber.cs" />
+        <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerData.cs" />
       </list>
     </option>
   </component>
@@ -92,7 +94,8 @@
       <workItem from="1568863247740" duration="1573000" />
       <workItem from="1569040343172" duration="2078000" />
       <workItem from="1569115975211" duration="1839000" />
-      <workItem from="1569472779837" duration="516000" />
+      <workItem from="1569472779837" duration="729000" />
+      <workItem from="1569904190841" duration="3315000" />
     </task>
     <servers />
   </component>
