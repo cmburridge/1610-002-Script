@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d4dab28f4c1a424b882e492a9694805, type: 3}
+  m_Name: Steph
+  m_EditorClassIdentifier: 
+  speed: 3
+  height: 7.4
+  weight: 25
+  jumpSpeed: 90
+  strength: 34
+  defense: 2
+  magic: 1000
+  charisma: 4
+  backFlip: 1
+  cold: 1
+  canJump: 1
+  canSwim: 0
+  weaponEquipped: 1
+  canDie: 0
+  hidden: 1

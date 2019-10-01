@@ -12,6 +12,7 @@
         <e p="Material.cs" t="Include" />
         <e p="Movement.cs" t="Include" />
         <e p="Particles.cs" t="Include" />
+        <e p="PlayerData.cs" t="Include" />
         <e p="Rubber.cs" t="Include" />
         <e p="Trigger.cs" t="Include" />
       </e>
