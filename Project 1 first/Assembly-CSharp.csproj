@@ -69,6 +69,7 @@
     <Compile Include="Assets\EnemyOne.cs" />
     <Compile Include="Assets\EnemyOne1.cs" />
     <Compile Include="Assets\FloatData.cs" />
+    <Compile Include="Assets\Functions.cs" />
     <Compile Include="Assets\GetFruit.cs" />
     <Compile Include="Assets\IfStatements.cs" />
     <Compile Include="Assets\MouseEvents.cs" />

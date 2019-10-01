@@ -17,6 +17,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/GetFruit.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DogClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Functions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/EnemyOne.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Variables.cs" root0="FORCE_HIGHLIGHTING" />
@@ -42,6 +43,7 @@
         <option value="$PROJECT_DIR$/Assets/GetFruit.cs" />
         <option value="$PROJECT_DIR$/Assets/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/ApplyFource.cs" />
+        <option value="$PROJECT_DIR$/Assets/Functions.cs" />
       </list>
     </option>
   </component>
@@ -98,7 +100,9 @@
       <workItem from="1568147654853" duration="3638000" />
       <workItem from="1568320195999" duration="3981000" />
       <workItem from="1568753084423" duration="3693000" />
-      <workItem from="1569356729055" duration="5130000" />
+      <workItem from="1569356729055" duration="5164000" />
+      <workItem from="1569529627306" duration="4050000" />
+      <workItem from="1569534350987" duration="56000" />
     </task>
     <servers />
   </component>
