@@ -179,6 +179,7 @@
 -define:ENABLE_UNITY_COLLECTIONS_CHECKS
 -define:UNITY_TEAM_LICENSE
 Assets/Behaviors.cs
+Assets/BoolData.cs
 Assets/EnemyOne.cs
 Assets/FloatData.cs
 Assets/Material.cs

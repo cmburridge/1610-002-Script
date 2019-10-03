@@ -20,6 +20,6 @@ public class PlayerData : ScriptableObject
     public bool weaponEquipped = true;
     public bool canDie = true;
     public bool hidden = true;
-
+    
 
 }

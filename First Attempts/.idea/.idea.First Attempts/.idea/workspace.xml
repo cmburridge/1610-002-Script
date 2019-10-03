@@ -18,6 +18,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/EnemyOne.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Particles.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BoolData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Rubber.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Movement.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -32,6 +33,7 @@
         <option value="$PROJECT_DIR$/Assets/Rubber.cs" />
         <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/BoolData.cs" />
       </list>
     </option>
   </component>
@@ -96,6 +98,7 @@
       <workItem from="1569115975211" duration="1839000" />
       <workItem from="1569472779837" duration="729000" />
       <workItem from="1569904190841" duration="3315000" />
+      <workItem from="1570077047368" duration="1999000" />
     </task>
     <servers />
   </component>
