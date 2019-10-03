@@ -72,10 +72,12 @@
     <Compile Include="Assets\Functions.cs" />
     <Compile Include="Assets\GetFruit.cs" />
     <Compile Include="Assets\IfStatements.cs" />
+    <Compile Include="Assets\IntData.cs" />
     <Compile Include="Assets\MouseEvents.cs" />
     <Compile Include="Assets\Movement.cs" />
-    <Compile Include="Assets\ParticalControl.cs" />
+    <Compile Include="Assets\PlayerData.cs" />
     <Compile Include="Assets\TriggerEvents.cs" />
+    <Compile Include="Assets\UiTextController.cs" />
     <Compile Include="Assets\Variables.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/10846705/script/1610-002-Script/Project 1 first/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
