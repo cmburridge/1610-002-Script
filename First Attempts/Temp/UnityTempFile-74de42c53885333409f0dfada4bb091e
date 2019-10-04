@@ -179,13 +179,14 @@
 -define:ENABLE_UNITY_COLLECTIONS_CHECKS
 -define:UNITY_TEAM_LICENSE
 Assets/Behaviors.cs
+Assets/BoolData.cs
 Assets/EnemyOne.cs
 Assets/FloatData.cs
 Assets/Material.cs
 Assets/Movement.cs
-Assets/NewBehaviourScript.cs
 Assets/Particles.cs
 Assets/PlayerData.cs
+Assets/Powerups.cs
 Assets/Rubber.cs
 Assets/Trigger.cs
 -lib:C:\Users\cmbur\Desktop\Art\2018.1.9f2\Editor\Data\MonoBleedingEdge\lib\mono\unity
