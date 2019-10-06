@@ -349,6 +349,7 @@ GameObject:
   - component: {fileID: 720955095}
   - component: {fileID: 720955097}
   - component: {fileID: 720955094}
+  - component: {fileID: 720955098}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -445,6 +446,19 @@ MonoBehaviour:
   position: {x: 0, y: 0, z: 0}
   jumpSpeed: 30
   jumpCountMax: 3
+--- !u!114 &720955098
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 720955092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf89e1b54df0ed4cb2116ac2f035f13, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 720955094}
+  HealthAmount: 1
 --- !u!1 &833404252
 GameObject:
   m_ObjectHideFlags: 0
@@ -778,6 +792,7 @@ GameObject:
   - component: {fileID: 1788179331}
   - component: {fileID: 1788179330}
   - component: {fileID: 1788179329}
+  - component: {fileID: 1788179333}
   m_Layer: 0
   m_Name: Killer
   m_TagString: Untagged
@@ -806,7 +821,7 @@ MonoBehaviour:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
-          m_FloatArgument: -0.1
+          m_FloatArgument: -0.5
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
@@ -894,6 +909,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1788179333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1788179328}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468f1a6437b1e2d4bb8d822fbebb958e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  move: {x: 1, y: 0, z: 0}
+  ai: {fileID: 0}
 --- !u!1 &1935999653
 GameObject:
   m_ObjectHideFlags: 0

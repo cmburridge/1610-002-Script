@@ -15,6 +15,7 @@
         <e p="Movement.cs" t="Include" />
         <e p="Particles.cs" t="Include" />
         <e p="PlayerData.cs" t="Include" />
+        <e p="PlayerDeath.cs" t="Include" />
         <e p="Powerups.cs" t="Include" />
         <e p="Rubber.cs" t="Include" />
         <e p="Trigger.cs" t="Include" />

@@ -68,6 +68,7 @@
     <Compile Include="Assets\Movement.cs" />
     <Compile Include="Assets\Particles.cs" />
     <Compile Include="Assets\PlayerData.cs" />
+    <Compile Include="Assets\PlayerDeath.cs" />
     <Compile Include="Assets\Powerups.cs" />
     <Compile Include="Assets\Rubber.cs" />
     <Compile Include="Assets\Trigger.cs" />

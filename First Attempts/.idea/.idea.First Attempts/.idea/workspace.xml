@@ -13,15 +13,16 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Behaviors.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Trigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/EnemyOne.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Particles.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/BoolData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Powerups.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Rubber.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Trigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BoolData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Powerups.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PlayerDeath.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UiImageController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -37,9 +38,10 @@
         <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/PlayerData.cs" />
         <option value="$PROJECT_DIR$/Assets/BoolData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Powerups.cs" />
         <option value="$PROJECT_DIR$/Assets/MonoEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/UiImageController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Powerups.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerDeath.cs" />
       </list>
     </option>
   </component>
@@ -106,6 +108,8 @@
       <workItem from="1569904190841" duration="3315000" />
       <workItem from="1570077047368" duration="1999000" />
       <workItem from="1570165762579" duration="1233000" />
+      <workItem from="1570251309694" duration="1229000" />
+      <workItem from="1570335501877" duration="2623000" />
     </task>
     <servers />
   </component>

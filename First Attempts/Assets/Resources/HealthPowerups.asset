@@ -11,6 +11,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e87fc912b0aa5c4e963917f82db8ead, type: 3}
   m_Name: HealthPowerups
   m_EditorClassIdentifier: 
-  HealthAmount: 1
+  HealthAmount: 0
   minValue: 0
   maxValue: 1

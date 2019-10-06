@@ -9,8 +9,8 @@ public class Powerups : ScriptableObject
 	public float HealthAmount = 1f;
 	public float minValue = 0;
 	public float maxValue = 1f;
-	
-	
+
+
 	public void UpdateValue(float amount)
 	{
 		HealthAmount += amount;
@@ -31,9 +31,10 @@ public class Powerups : ScriptableObject
 		{
 			HealthAmount = minValue;
 		}
-		
-		
 	}
-	
-	
+
 }
+		
+
+		
+	
