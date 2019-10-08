@@ -60,14 +60,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Behaviors.cs" />
+    <Compile Include="Assets\BoolData.cs" />
     <Compile Include="Assets\EnemyOne.cs" />
     <Compile Include="Assets\FloatData.cs" />
     <Compile Include="Assets\Material.cs" />
+    <Compile Include="Assets\MonoEvents.cs" />
     <Compile Include="Assets\Movement.cs" />
     <Compile Include="Assets\Particles.cs" />
     <Compile Include="Assets\PlayerData.cs" />
+    <Compile Include="Assets\PlayerDeath.cs" />
+    <Compile Include="Assets\Powerups.cs" />
     <Compile Include="Assets\Rubber.cs" />
     <Compile Include="Assets\Trigger.cs" />
+    <Compile Include="Assets\UiImageController.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/cmbur/Desktop/Scripting/1610-002-Script/First Attempts/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
