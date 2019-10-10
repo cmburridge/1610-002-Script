@@ -14,15 +14,18 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UiTextController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameArtData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IntData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/EnemyOne1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GetFruit.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DogClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Functions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/EnemyOne.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Variables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
@@ -49,6 +52,10 @@
         <option value="$PROJECT_DIR$/Assets/Functions.cs" />
         <option value="$PROJECT_DIR$/Assets/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/UiTextController.cs" />
+        <option value="$PROJECT_DIR$/Assets/MonoEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameArtData.cs" />
+        <option value="$PROJECT_DIR$/Assets/DataPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/WeaponData.cs" />
       </list>
     </option>
   </component>
@@ -109,6 +116,7 @@
       <workItem from="1569529627306" duration="4050000" />
       <workItem from="1569534350987" duration="56000" />
       <workItem from="1569961484347" duration="4743000" />
+      <workItem from="1570568244316" duration="3443000" />
     </task>
     <servers />
   </component>
