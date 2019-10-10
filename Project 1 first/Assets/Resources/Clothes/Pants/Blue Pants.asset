@@ -9,10 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
-  m_Name: GreenCircle
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerData1
+  m_Script: {fileID: 11500000, guid: 2de3706625c055c46917a8e1e80a42a0, type: 3}
+  m_Name: Blue Pants
+  m_EditorClassIdentifier: 
   sprite: {fileID: 21300000, guid: 2af1e0112f5530747a784bb1588ac52e, type: 3}
-  color: {r: 0.33456254, g: 1, b: 0, a: 0}
-  prefab: {fileID: 1138121702, guid: 908a7a7aa5e2abd4ebbb4e49c62590e0, type: 3}
-  weapon: {fileID: 11400000, guid: e826465139a8fd245ac7332decb09351, type: 2}
+  color: {r: 0.12615699, g: 0.19920626, b: 0.764151, a: 1}
+  prefab: {fileID: 1138121702, guid: f7450a9273905c44daf99c316c5512d9, type: 3}
