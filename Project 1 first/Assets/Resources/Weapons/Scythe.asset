@@ -9,7 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dec4bc77f56112643a22cb0c10666db5, type: 3}
-  m_Name: Score
+  m_Script: {fileID: 11500000, guid: 5e1e84290cb6f2345a4ec1cbeb8fc8b6, type: 3}
+  m_Name: Scythe
   m_EditorClassIdentifier: 
-  value: 0
+  sprite: {fileID: 0}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  prefab: {fileID: 0}
+  powerLevel: 50
