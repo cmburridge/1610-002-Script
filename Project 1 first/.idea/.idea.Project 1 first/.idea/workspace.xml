@@ -12,6 +12,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/CiniMachineController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UiTextController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/EnemyOne1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GetFruit.cs" root0="FORCE_HIGHLIGHTING" />
@@ -42,7 +43,6 @@
         <option value="$PROJECT_DIR$/Assets/CatClass.cs" />
         <option value="$PROJECT_DIR$/Assets/ParticalControl.cs" />
         <option value="$PROJECT_DIR$/Assets/MouseEvents.cs" />
-        <option value="$PROJECT_DIR$/Assets/EnemyOne1.cs" />
         <option value="$PROJECT_DIR$/Assets/IfStatements.cs" />
         <option value="$PROJECT_DIR$/Assets/GetFruit.cs" />
         <option value="$PROJECT_DIR$/Assets/Movement.cs" />
@@ -58,6 +58,8 @@
         <option value="$PROJECT_DIR$/Assets/DataScripts/WeaponData.cs" />
         <option value="$PROJECT_DIR$/Assets/DataScripts/GameArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/DataScripts/ClothesData.cs" />
+        <option value="$PROJECT_DIR$/Assets/EnemyOne1.cs" />
+        <option value="$PROJECT_DIR$/Assets/CiniMachineController.cs" />
         <option value="$PROJECT_DIR$/Assets/DataScripts/PlayerData.cs" />
       </list>
     </option>
@@ -121,6 +123,7 @@
       <workItem from="1569961484347" duration="4743000" />
       <workItem from="1570568244316" duration="3443000" />
       <workItem from="1570739319588" duration="4645000" />
+      <workItem from="1571172205020" duration="3254000" />
     </task>
     <servers />
   </component>
