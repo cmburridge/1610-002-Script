@@ -1,21 +1,25 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
-public class EnemyOne1 : MonoBehaviour
+[CreateAssetMenu]
+public class EnemyOne1 : GameArtData
 {
+    public Transform placement;
     public Vector3 move;
     public Rigidbody enemy;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
     void Update()
     {
-        transform.Translate(move*Time.deltaTime);
+        placement.Translate(move*Time.deltaTime);
         enemy.MovePosition(move*Time.deltaTime);
     }
+    public void instanceEnemy()
+    {
+        var enemy1 = Instantiate(prefab);
+        var enemySprite = enemy1.GetComponentInChildren<SpriteRenderer>();
+        enemySprite.sprite = sprite;
+        enemySprite.color = color;
+ 
+    }
 }
+
