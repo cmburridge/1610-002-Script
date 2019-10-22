@@ -9,7 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dec4bc77f56112643a22cb0c10666db5, type: 3}
-  m_Name: Score
+  m_Script: {fileID: 11500000, guid: 8e1e66ecc88b5b64e894fb0d4942a472, type: 3}
+  m_Name: WeaponCollection
   m_EditorClassIdentifier: 
-  value: 5
+  collectionList:
+  - {fileID: 11400000, guid: 2b55391cd764c33489be8566f25b2117, type: 2}
+  - {fileID: 11400000, guid: 53e7d5b47c01d6c458a9f9e025d04c96, type: 2}
