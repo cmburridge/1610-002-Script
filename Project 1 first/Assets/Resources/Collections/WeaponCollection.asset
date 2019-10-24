@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: WeaponCollection
   m_EditorClassIdentifier: 
   collectionList:
-  - {fileID: 11400000, guid: 2b55391cd764c33489be8566f25b2117, type: 2}
-  - {fileID: 11400000, guid: 53e7d5b47c01d6c458a9f9e025d04c96, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

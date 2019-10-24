@@ -9,7 +9,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dec4bc77f56112643a22cb0c10666db5, type: 3}
-  m_Name: Score
+  m_Script: {fileID: 11500000, guid: d5b88b4b2bffee04f8eef3723ce858bc, type: 3}
+  m_Name: List1
   m_EditorClassIdentifier: 
-  value: 56
+  stringList: []
+  floatList: []
+  intList: 
+  objectList: []
+  dataList: []

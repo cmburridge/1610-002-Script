@@ -71,6 +71,7 @@
     <Compile Include="Assets\DataScripts\GameArtCollection.cs" />
     <Compile Include="Assets\DataScripts\GameArtData.cs" />
     <Compile Include="Assets\DataScripts\IntData.cs" />
+    <Compile Include="Assets\DataScripts\Lists.cs" />
     <Compile Include="Assets\DataScripts\PlayerData.cs" />
     <Compile Include="Assets\DataScripts\WeaponData.cs" />
     <Compile Include="Assets\DogClass.cs" />

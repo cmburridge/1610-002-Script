@@ -1,6 +1,7 @@
 ﻿
 using System.Collections.Generic;
 using UnityEngine;
+
 [CreateAssetMenu]
 public class GameArtCollection : ScriptableObject
 {
@@ -8,6 +9,22 @@ public class GameArtCollection : ScriptableObject
 
     public void AddData(GameArtData obj)
     {
-        collectionList.Add(obj);
+        for (var i = 0; i < collectionList.Count; i++)
+        {
+            if (!collectionList.Contains(obj))
+            {
+                collectionList.Add(obj);
+            }
+        }
     }
+
+   public void RemoveLastItem()
+        {
+            if (collectionList.Contains(item:null))
+            {
+                collectionList.RemoveAt(collectionList.Count-1);
+            }
+            
+        }
+        
 }

@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sprite: {fileID: 21300000, guid: 169cebf979188e14dbfb8a934073b080, type: 3}
   color: {r: 1, g: 1, b: 1, a: 1}
-  prefab: {fileID: 8432652023227844894, guid: 198a2d5e0a54fcd4abde7c43f2aa66ed, type: 3}
+  prefab: {fileID: 0}
   powerLevel: 50
