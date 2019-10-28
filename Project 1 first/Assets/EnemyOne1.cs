@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 public class EnemyOne1 : MonoBehaviour
@@ -12,6 +13,5 @@ public class EnemyOne1 : MonoBehaviour
        transform.Translate(move*Time.deltaTime);
         enemy.MovePosition(move*Time.deltaTime);
     }
-
- 
-    }
+    
+}

@@ -16,7 +16,8 @@ public class PlayerData : GameArtData
         var newPlayer = Instantiate(prefab);
         var playerSprite = newPlayer.GetComponentInChildren<SpriteRenderer>();
         playerSprite.sprite = sprite;
-        playerSprite.color = color;
- 
+        playerSprite.color = color; 
     }
+    
+    
 }

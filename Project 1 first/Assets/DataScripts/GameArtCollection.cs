@@ -26,5 +26,5 @@ public class GameArtCollection : ScriptableObject
             }
             
         }
-        
+   
 }
