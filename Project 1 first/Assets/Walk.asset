@@ -9,9 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3b00bed42dba57b4bb906a80fa3918f8, type: 3}
-  m_Name: Health
+  m_Script: {fileID: 11500000, guid: ef5ef40145a6db141a6359f0ea18afc8, type: 3}
+  m_Name: Walk
   m_EditorClassIdentifier: 
-  value: -2.5
-  player: {fileID: 54597117, guid: c20e8b53c7b735b468f0478617347fe5, type: 3}
-  dead: 0

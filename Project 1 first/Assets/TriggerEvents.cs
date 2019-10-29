@@ -9,9 +9,14 @@ public class TriggerEvents : MonoBehaviour
         GetComponent<Collider>().isTrigger = true;
     }
 
+    public UnityEvent triggerEnterEvent, triggerExitEvent;
     public UnityEvent triggerEvent;
     private void OnTriggerEnter(Collider other)
     {
-        triggerEvent.Invoke();
+        triggerEnterEvent.Invoke();
+    }
+    private void OnTriggerExit(Collider other)
+    {
+        triggerExitEvent.Invoke();
     }
 }

@@ -10,7 +10,8 @@ public class PlayerData : GameArtData
     public ClothesData shirt;
     public ClothesData pants;
     public List<WeaponData> weapon;
-
+    public UnityEvent onRun;
+    
     public void instancePlayer()
     {
         var newPlayer = Instantiate(prefab);
@@ -18,6 +19,11 @@ public class PlayerData : GameArtData
         playerSprite.sprite = sprite;
         playerSprite.color = color; 
     }
-    
-    
+
+
+    public void Run()
+    {
+        onRun.Invoke();
+    }
+
 }

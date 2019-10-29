@@ -18,7 +18,7 @@ public class FloatData : ScriptableObject
     {
         if (value <= 0)
         {
-            dead = true;
+            player.SetActive(false);
         }
 
     }
