@@ -90,6 +90,7 @@
     <Compile Include="Assets\TriggerEvents.cs" />
     <Compile Include="Assets\UiTextController.cs" />
     <Compile Include="Assets\Variables.cs" />
+    <Compile Include="Assets\WeaponHandler.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/10846705/script/1610-002-Script/Project 1 first/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

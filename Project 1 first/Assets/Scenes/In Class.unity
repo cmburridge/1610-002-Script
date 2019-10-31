@@ -1675,6 +1675,18 @@ PrefabInstance:
       propertyPath: m_UseGravity
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9083745500002656175, guid: 6158c2b8ebff68c48a4daafe6391c190,
+        type: 3}
+      propertyPath: triggerExitEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 11400000, guid: 762f4c772905c404e8d5a027f99ab885,
+        type: 2}
+    - target: {fileID: 9083745500002656175, guid: 6158c2b8ebff68c48a4daafe6391c190,
+        type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 11400000, guid: 56ec74816407c3044915e3c645c796aa,
+        type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6158c2b8ebff68c48a4daafe6391c190, type: 3}
 --- !u!1 &1438645582

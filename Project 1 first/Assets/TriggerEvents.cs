@@ -13,6 +13,7 @@ public class TriggerEvents : MonoBehaviour
     public UnityEvent triggerEvent;
     private void OnTriggerEnter(Collider other)
     {
+        triggerEvent.Invoke();
         triggerEnterEvent.Invoke();
     }
     private void OnTriggerExit(Collider other)
