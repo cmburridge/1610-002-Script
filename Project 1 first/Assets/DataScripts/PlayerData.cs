@@ -26,4 +26,5 @@ public class PlayerData : GameArtData
         onRun.Invoke();
     }
 
+    
 }
