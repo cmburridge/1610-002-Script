@@ -11,6 +11,7 @@ public class PlayerData : GameArtData
     public ClothesData pants;
     public List<WeaponData> weapon;
     public UnityEvent onRun;
+   
     
     public void instancePlayer()
     {

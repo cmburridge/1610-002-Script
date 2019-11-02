@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Health
   m_EditorClassIdentifier: 
   dead: 0
-  value: 1
+  value: -0.25
   prefab: {fileID: 54597117, guid: c20e8b53c7b735b468f0478617347fe5, type: 3}

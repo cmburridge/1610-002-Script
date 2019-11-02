@@ -6,10 +6,11 @@ using UnityEngine.Events;
 [CreateAssetMenu]
 public class FloatData : ScriptableObject
 {
-    public int dead = 0;
+    public bool dead = false;
     public float value = 1f;
     public GameObject prefab;
-
+    private int healthAmountMin = 0;
+    
     public void UpdateValue(float amount)
     {
         value += amount;
@@ -17,7 +18,10 @@ public class FloatData : ScriptableObject
 
     public void killPlayer()
     {
-       
+        if (value == healthAmountMin)
+        {
+            
+        }
     }
         
 }

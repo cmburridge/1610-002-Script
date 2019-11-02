@@ -80,7 +80,7 @@
     <Compile Include="Assets\MonoEvents.cs" />
     <Compile Include="Assets\MouseEvents.cs" />
     <Compile Include="Assets\Movement.cs" />
-    <Compile Include="Assets\Resources\Players\PlayerHandler.cs" />
+    <Compile Include="Assets\Resources\Sprites\Enemy 1\Players\PlayerHandler.cs" />
     <Compile Include="Assets\TriggerEvents.cs" />
     <Compile Include="Assets\UiTextController.cs" />
     <Compile Include="Assets\Variables.cs" />
