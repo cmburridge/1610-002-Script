@@ -12,5 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e1e66ecc88b5b64e894fb0d4942a472, type: 3}
   m_Name: WeaponCollection
   m_EditorClassIdentifier: 
-  collectionList:
-  - {fileID: 0}
+  collectionList: []
