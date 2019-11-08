@@ -7,23 +7,20 @@ using UnityEngine.Events;
 public class FloatData : ScriptableObject
 {
     public bool dead = false;
-    public float value = 1f;
+    public float playerHealth = 1f;
     public GameObject prefab;
     private int healthAmountMin = 0;
     
     public void UpdateValue(float amount)
     {
-        value += amount;
+        playerHealth += amount;
     }
 
-    public void killPlayer()
+
+    public void KillPlayer(Component getComponent)
     {
-        if (value == healthAmountMin)
-        {
-            
-        }
+        throw new NotImplementedException();
     }
-        
 }
 
 
