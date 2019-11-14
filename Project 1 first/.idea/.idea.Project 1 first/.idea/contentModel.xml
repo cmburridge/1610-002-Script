@@ -10,6 +10,7 @@
         <e p="ApplyFource.cs" t="Include" />
         <e p="CatClass.cs" t="Include" />
         <e p="CiniMachineController.cs" t="Include" />
+        <e p="CoereutineClass.cs" t="Include" />
         <e p="DataScripts" t="Include">
           <e p="ClothesData.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />

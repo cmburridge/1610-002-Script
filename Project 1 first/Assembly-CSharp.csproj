@@ -67,6 +67,7 @@
     <Compile Include="Assets\ApplyFource.cs" />
     <Compile Include="Assets\CatClass.cs" />
     <Compile Include="Assets\CiniMachineController.cs" />
+    <Compile Include="Assets\CoereutineClass.cs" />
     <Compile Include="Assets\DataScripts\ClothesData.cs" />
     <Compile Include="Assets\DataScripts\FloatData.cs" />
     <Compile Include="Assets\DataScripts\GameArtCollection.cs" />
