@@ -19,9 +19,8 @@ public class CoereutineClass : MonoBehaviour
     {
         while (index.value > 0)
         {
-             Debug.Log(index.value);
-             index.value--;
-             yield return wfsobj;
+            index.value--;
+             yield return new WaitForSeconds(1f);
         }
     }
 }
