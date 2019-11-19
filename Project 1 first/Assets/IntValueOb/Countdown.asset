@@ -10,6 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dec4bc77f56112643a22cb0c10666db5, type: 3}
-  m_Name: Score
+  m_Name: Countdown
   m_EditorClassIdentifier: 
-  value: 92
+  value: 84

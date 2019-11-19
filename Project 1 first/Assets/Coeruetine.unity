@@ -349,7 +349,7 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: 40f5a01f03b101a47b4dc6423503892d, type: 3}
     m_FontSize: 25
     m_FontStyle: 1
     m_BestFit: 0
@@ -386,13 +386,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   startEvent:
     m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  down:
+    m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1179437794}
-        m_MethodName: Run
-        m_Mode: 1
+      - m_Target: {fileID: 621815154}
+        m_MethodName: UpdateText
+        m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_ObjectArgument: {fileID: 11400000, guid: bed08f378cf563b49bee9b7faf35bd4f,
+            type: 2}
+          m_ObjectArgumentAssemblyTypeName: IntData, Assembly-CSharp
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -434,7 +440,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   canRun: 1
-  index: {fileID: 0}
+  index: {fileID: 11400000, guid: bed08f378cf563b49bee9b7faf35bd4f, type: 2}
   seconds: 1
 --- !u!65 &1179437795
 BoxCollider:
