@@ -4,11 +4,17 @@ using UnityEngine;
 
 public class WeaponHandler : MonoBehaviour
 {
-   
+    public WeaponData weaponDataObj;
 
-    // Update is called once per frame
-    void Update()
+    public void WeaponSwitch(WeaponData data)
     {
-        
+        weaponDataObj = data;
     }
+
+    public void onActivate()
+    {
+        weaponDataObj.Activate();
+    }
+    
+
 }

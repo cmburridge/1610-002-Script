@@ -1,23 +1,17 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody))]
 [RequireComponent(typeof(Collider))]
 public class ApplyFource : MonoBehaviour
 {
     private Rigidbody rb;
-    public Vector3 forces;
-    
+    public Vector3Data forceDirection;
+    public float force = 3f;
     
     void Start()
     {
         rb = GetComponent<Rigidbody>();
+        rb.AddForce(forceDirection.value*force);
     }
-
-    private void OnCollisionEnter(Collision other)
-    {
-        rb.AddForce(forces);
-    }
+    
 }

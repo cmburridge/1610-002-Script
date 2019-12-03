@@ -1316,11 +1316,11 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 961141399}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.30364153, y: 1, z: 1}
-  m_Center: {x: 0.041360606, y: 0, z: 0}
+  m_Size: {x: 0.99572575, y: 1, z: 1.7016373}
+  m_Center: {x: 0.0735746, y: 0, z: 0.35081834}
 --- !u!212 &961141401
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1386,10 +1386,10 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 0}
         m_MethodName: 
-        m_Mode: 1
+        m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Transform, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -1839,7 +1839,7 @@ PrefabInstance:
     - target: {fileID: 9083745500002656172, guid: 6158c2b8ebff68c48a4daafe6391c190,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -9.76
+      value: -9.26
       objectReference: {fileID: 0}
     - target: {fileID: 9083745500002656172, guid: 6158c2b8ebff68c48a4daafe6391c190,
         type: 3}
