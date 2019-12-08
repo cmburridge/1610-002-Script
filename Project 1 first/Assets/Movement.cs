@@ -10,7 +10,7 @@ public class Movement : MonoBehaviour
     private int jumpCount;
     public int jumpCountMax = 2;
     
-    
+
     // Update is called once per frame
     void Update()
     {
