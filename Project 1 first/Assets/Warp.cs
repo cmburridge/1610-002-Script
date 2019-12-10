@@ -5,12 +5,7 @@ using UnityEngine;
 public class Warp : MonoBehaviour
 {
     
-    public Vector3 location;
-
-    public void Teleport()
-    {
-        transform.Translate(location);
-    }
+   
 
     void Update()
     {
